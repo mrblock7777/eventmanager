@@ -1,0 +1,53 @@
+15.11
+-----
+- accept url parameter thru controller method
+- update builder
+
+11.03
+-----
+- add bridge function on loader to cross call existing controller
+- update database class for support multiple databases
+
+10.7
+----
+- update to php5 strict code
+- change from error handler to exception handler
+- add new function for openapi library
+- add new function on database class
+- optimize & tidy up code
+
+10.3
+------
+- path missing prefix on database class function
+- add new clause function on database class function
+- optimize & tidy up code
+
+9.10
+------
+- add new function on database class function
+- tweak bootstrap to optimize performance
+- clean up code and update for compatibility obsolete function
+
+9.07
+-------
+- add uri mapping (routes)
+- patch remote uri injection
+- add new function on database class function
+- remove obsolete function
+
+8.06
+-------
+- update all repository
+- shorten registry variables
+- easy load library & helpers (udf)
+- autoload configuration
+
+8.02
+-------
+- upgrade php5 compatible engine
+- pdo plugin implementation
+- update repository
+
+7.10
+--------
+- initial release
